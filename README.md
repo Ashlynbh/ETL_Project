@@ -1,5 +1,5 @@
 # ETL Project
-### Group 1
+### Group 1 (Ashlyn Hogan, Johanna Fernandez, Dion Daniels)
 # Transforming Data to analyse intelligence in dog breeds  
 ![Images/dog.png](Images/dog.png)
 ## Background
